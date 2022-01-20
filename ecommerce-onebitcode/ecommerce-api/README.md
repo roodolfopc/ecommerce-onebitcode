@@ -1,24 +1,12 @@
-# README
+# Ecommerce OnebitCode
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Olá, seja bem vindo ao ecommerce de produtos digitais 🚀️
 
-Things you may want to cover:
+ - Feito através do aprendizado do bootcamp do OneBitCode, esse ecommerce serve de base para a criação de um comércio profissional.
+ 
+### Tecnologias utilizadas:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Ruby - Backend
+ - ReactJS - Web
+ - Reactive Native - Mobile
+ 
